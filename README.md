@@ -2,7 +2,9 @@ Embark on an exhilarating journey of web development with my "50 Days, 50 WebDev
 
 Live Demo - https://codelikeamachine.github.io/Day4of50-Business-Company-Website/
 
-Join me GitHub-https://github.com/Codelikeamachine
+Join me 
+
+Linkedin - http://www.linkedin.com/in/armaansaraswat
 
 GitHub: https://github.com/Codelikeamachine
 
